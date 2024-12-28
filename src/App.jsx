@@ -54,7 +54,8 @@ function App() {
   const getData = async () => {
     setLoading(true)
     setCityNotFound(false)
-    const url=`https://api.openweathermap.org/data/2.5/weather?q=${text}&appid=56e2a83fdd1116753ae6c527d69c91fd&units=Metric`
+    const API_KEY="56e2a83fdd1116753ae6c527d69c91fd"
+    const url=`https://api.openweathermap.org/data/2.5/weather?q=${text}&appid=${API_KEY}&units=Metric`
     try {
       const res = await fetch(url)
       // System.out.print(res.status)
