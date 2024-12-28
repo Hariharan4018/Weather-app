@@ -46,9 +46,9 @@ The Weather App is a simple and user-friendly application that provides real-tim
 ## Screenshots
 ### Home Page
 ![Weather App Home Page](src/assets/4.png)
-&nbsp;&nbsp;&nbsp;
+
 ![Weather App Home Page](src/assets/2.png)
-&nbsp;&nbsp;&nbsp;
+
 ![Weather App Home Page](src/assets/3.png)
 
 ## Future Enhancements  
