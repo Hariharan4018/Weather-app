@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  width:100vw;
+  height:100vh;
+  @apply flex items-center justify-center bg-gray-600;
+}
+
+
+.data{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.cord{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-top: 10px
+}
+.cord div span{
+ font-size: 10px;
+}
+
+.other{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.com{
+  font-size: 25px;
+}
+
+.loading{
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+}
+.error{
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.cityNotFound{
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+}

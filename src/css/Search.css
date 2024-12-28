@@ -1,0 +1,10 @@
+.Search{
+    @apply flex bg-white rounded-md
+    p-3 
+}
+.Search input{
+    @apply flex-1 rounded-md border-none outline-none
+}
+.SearchButton{
+    @apply flex justify-center items-center  text-2xl
+}

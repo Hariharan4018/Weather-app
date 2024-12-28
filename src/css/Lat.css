@@ -1,0 +1,9 @@
+.lat{
+   /* display: flex;
+   flex-direction: column;
+   text-align: center; */
+   @apply flex flex-col text-center
+}
+.lat span{
+   @apply font-semibold
+}

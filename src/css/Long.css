@@ -1,0 +1,9 @@
+.long{
+    /* display: flex;
+   flex-direction: column;
+   text-align: center; */
+   @apply flex flex-col text-center
+}
+.long span{
+    @apply font-semibold
+ }

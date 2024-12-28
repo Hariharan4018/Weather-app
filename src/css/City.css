@@ -1,0 +1,4 @@
+.city{
+    font-size: 30px;
+    @apply uppercase font-semibold text-[#e81c30b3]
+}

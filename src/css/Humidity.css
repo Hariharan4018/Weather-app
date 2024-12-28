@@ -1,0 +1,14 @@
+.humidity p{
+    font-size: 12px ;
+    /* color: black;
+    font-weight: 500; */
+    @apply text-black font-semibold
+}
+.humidity{
+    @apply flex flex-col justify-center items-center text-center
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center; */
+}
