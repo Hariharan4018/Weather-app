@@ -43,8 +43,11 @@ The Weather App is a simple and user-friendly application that provides real-tim
 - Enter the name of a city in the search bar to fetch weather details.  
 - Browse through current and forecasted weather data.  
 
-## Screenshots  
-![Weather App Screenshot](path/to/screenshot.jpg)  
+## Screenshots
+### Home Page
+![Weather App Home Page](assets/1.png)
+![Weather App Home Page](assets/2.png)
+![Weather App Home Page](assets/3.png)
 
 ## Future Enhancements  
 - Add geolocation-based weather updates  
