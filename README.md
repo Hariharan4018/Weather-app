@@ -45,9 +45,9 @@ The Weather App is a simple and user-friendly application that provides real-tim
 
 ## Screenshots
 ### Home Page
-![Weather App Home Page](assets/1.png)
-![Weather App Home Page](assets/2.png)
-![Weather App Home Page](assets/3.png)
+![Weather App Home Page](https://raw.githubusercontent.com/Hariharan4018/weather-app/main/assets/1.png)
+![Weather App Home Page](https://raw.githubusercontent.com/Hairharan4018/weather-app/main/assets/2.png)
+![Weather App Home Page](https://raw.githubusercontent.com/Hariharan4018/weather-app/main/assets/3.png)
 
 ## Future Enhancements  
 - Add geolocation-based weather updates  
